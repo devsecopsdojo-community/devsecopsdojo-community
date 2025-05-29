@@ -3,12 +3,11 @@
 # 🥷 DevSecOps Dojo Community
 
 [![GitHub Stars](https://img.shields.io/github/stars/devsecopsdojo-community/devsecopsdojo-community?style=social)](https://github.com/devsecopsdojo-community/devsecopsdojo-community)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DevSecOpsDojo?style=social)](https://twitter.com/DevSecOpsDojo)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/devsecopsdojo)
+<!-- Social links will appear here as they become available -->
 
 🔐 **Empowering the next generation of DevSecOps practitioners**
 
-[Join Community](https://github.com/devsecopsdojo-community) • [Start Learning](https://github.com/devsecopsdojo-community/learning-paths) • [View Workshops](https://github.com/devsecopsdojo-community/workshops) • [Explore Tools](https://github.com/devsecopsdojo-community/tools)
+[Start Learning](https://github.com/devsecopsdojo-community/learning-paths) • [View Workshops](https://github.com/devsecopsdojo-community/workshops) • [Explore Tools](https://github.com/devsecopsdojo-community/tools)
 
 </div>
 
@@ -53,9 +52,9 @@ To build an inclusive, collaborative learning environment where security meets d
 
 ## 🤝 Join Our Community
 
-- 💬 [Discussions](https://github.com/orgs/devsecopsdojo-community/discussions)
 - 🎯 [Issues](https://github.com/devsecopsdojo-community/devsecopsdojo-community/issues)
 - 📣 [Announcements](https://github.com/devsecopsdojo-community/devsecopsdojo-community/discussions/categories/announcements)
+- 💡 [Start a Discussion](https://github.com/devsecopsdojo-community/devsecopsdojo-community/discussions/new?category=general)
 
 ## 📜 License
 

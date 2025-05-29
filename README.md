@@ -24,10 +24,10 @@ To build an inclusive, collaborative learning environment where security meets d
 
 ### For Learners
 
-1. 📖 Start with our [Learning Paths](https://github.com/devsecopsdojo-community/learning-paths)
-2. 💻 Practice with [Hands-on Workshops](https://github.com/devsecopsdojo-community/workshops)
-3. 🛠️ Explore our [Security Tools](https://github.com/devsecopsdojo-community/tools)
-4. 🤝 Join our [Community Discussions](https://github.com/orgs/devsecopsdojo-community/discussions)
+1. 📖 Watch this space for Learning Paths (coming soon!)
+2. 💻 Hands-on Workshops will be available shortly
+3. 🛠️ Security Tools are in development
+4. 🤝 [Start a Discussion](https://github.com/devsecopsdojo-community/devsecopsdojo-community/discussions/new?category=general)
 
 ### For Contributors
 
@@ -38,17 +38,23 @@ To build an inclusive, collaborative learning environment where security meets d
 
 ## 📚 Key Resources
 
-- [**🎓 Learning Paths**](https://github.com/devsecopsdojo-community/learning-paths): Structured paths for different DevSecOps roles
-- [**🔨 Workshops**](https://github.com/devsecopsdojo-community/workshops): Hands-on exercises and materials
-- [**🛠️ Tools**](https://github.com/devsecopsdojo-community/tools): Security tools and utilities
-- [**📖 Documentation**](https://github.com/devsecopsdojo-community/documentation): Guides and best practices
+## 🚧 Coming Soon
 
-## 🌟 Featured Projects
+We're currently setting up our core resources. Check back soon for:
 
-- **Container Security Lab**: Learn container security best practices
-- **CI/CD Security Pipeline**: Build secure deployment pipelines
-- **Cloud Security Scenarios**: Real-world cloud security challenges
-- **Security Tools Workshop**: Create and use security tools
+- 🎓 Learning Paths
+- 🔨 Hands-on Workshops
+- 🛠️ Security Tools
+- 📖 Documentation
+
+## 🌟 Future Projects
+
+We're planning these exciting initiatives:
+
+- **Container Security Lab** (Coming Soon)
+- **CI/CD Security Pipeline** (Planned)
+- **Cloud Security Scenarios** (In Development)
+- **Security Tools Workshop** (Coming Soon)
 
 ## 🤝 Join Our Community
 
